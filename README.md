@@ -2,6 +2,7 @@
 Solution for Stage 3 problem of Ritangle 2021 Puzzle competition
 
 Competition home page: https://integralmaths.org/ritangle/2021
+
 Puzzle home page: https://meiassets.blob.core.windows.net/integral-frontend-uploads/uploads/files/Ritangle_21_Stage_3_question.pdf
 
 Puzzle statement:
