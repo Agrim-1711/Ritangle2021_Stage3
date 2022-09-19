@@ -27,3 +27,11 @@ I came up with 187 spheres located at various co-ordinates (see the file spheres
 This matlab code checks my solution to the above problem. The puzzle is the last stage in a series of Maths puzzles competition called as 'Ritangle', hosted by Integral every year for Sixth Form students in England.
 
 I used geogebra and other logic to nail down the exact co-ordinates and radii of the 187 spheres. I then used matlab code to check the sanctity of my solution, i.e. none of the spheres intersect any other sphere and they don't cross the boundaries.
+
+Submitted solution:
+-------------------
+187 spheres loaded
+0 spheres found to intersect in 3D
+4050 points scanned
+maximum internal/external gap is 0.94427
+total V is 1587
